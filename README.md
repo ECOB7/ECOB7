@@ -14,11 +14,33 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://ecob5.github.io/"><img src="https://img.shields.io/badge/Portfolio-ecob5.github.io-15100d?style=for-the-badge&logo=githubpages&logoColor=fb923c&labelColor=2a1a0c" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/ecobittencourt/"><img src="https://img.shields.io/badge/LinkedIn-ecobittencourt-15100d?style=for-the-badge&logo=linkedin&logoColor=fb923c&labelColor=2a1a0c" alt="LinkedIn" /></a>
+  <a href="https://github.com/ecob5"><img src="https://img.shields.io/badge/GitHub-ecob5-15100d?style=for-the-badge&logo=github&logoColor=fb923c&labelColor=2a1a0c" alt="GitHub" /></a>
+  <img src="https://img.shields.io/badge/Open_to_Work-Internship_%26_Junior_Roles-15100d?style=for-the-badge&labelColor=2a1a0c" alt="Open to internship and junior roles" />
+</p>
+
 <hr />
 
 <samp>
 I am a Software Engineering student focused on turning ideas, data and AI capabilities into practical software. I build back-end applications and applied AI projects with Python, TypeScript, REST APIs, LLMs and data tools. I am currently looking for internship and junior opportunities in software development, applied AI or data.
 </samp>
+
+## 🎓 Academic & Professional
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎓 Education</h3>
+      <p>Software Engineering student at Universidade de Vassouras, building a strong foundation in software development, data and intelligent systems.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💼 Experience</h3>
+      <p>Experience as a Generalist AI Trainer, working with code-focused tasks, technical evaluation and AI safety requirements.</p>
+    </td>
+  </tr>
+</table>
 
 ## 🔥 Streak Stats
 
@@ -114,10 +136,10 @@ I am a Software Engineering student focused on turning ideas, data and AI capabi
   <br />
   <p align="center">
     <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-      <img alt="Enzo's GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ecob5&theme=github_dark" height="192" />
+      <img alt="Enzo's GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ecob5&theme=github_dark&bg_color=15100D&border_color=3A281C&title_color=FB923C&text_color=FFF7ED&icon_color=FB923C&chart_color=F97316" height="192" />
     </a>
     <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-      <img alt="Enzo's top languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ecob5&theme=github_dark" height="192" />
+      <img alt="Enzo's top languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ecob5&theme=github_dark&bg_color=15100D&border_color=3A281C&title_color=FB923C&text_color=FFF7ED&icon_color=FB923C&chart_color=F97316" height="192" />
     </a>
   </p>
   <p><b>Note:</b> Top languages reflect the public code on this profile, not overall experience or proficiency.</p>
@@ -128,7 +150,7 @@ I am a Software Engineering student focused on turning ideas, data and AI capabi
   <br />
   <p align="center">
     <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-      <img alt="Enzo's activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ecob5&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+      <img alt="Enzo's activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ecob5&bg_color=15100D&color=BCA191&title_color=FB923C&line=F97316&point=FFF7ED&area=true&area_color=F97316&hide_border=true" />
     </a>
   </p>
 </details>
@@ -136,7 +158,7 @@ I am a Software Engineering student focused on turning ideas, data and AI capabi
 ## 🙋‍♂️ Let's Connect
 
 <p align="center">
-  <a href="https://ecob5.github.io/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio" /></a>
-  <a href="https://github.com/ecob5" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/ecobittencourt/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn" /></a>
+  <a href="https://ecob5.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit-15100d?style=for-the-badge&logo=githubpages&logoColor=fb923c&labelColor=2a1a0c" alt="Portfolio" /></a>
+  <a href="https://github.com/ecob5"><img src="https://img.shields.io/badge/GitHub-Follow-15100d?style=for-the-badge&logo=github&logoColor=fb923c&labelColor=2a1a0c" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/ecobittencourt/"><img src="https://img.shields.io/badge/LinkedIn-Connect-15100d?style=for-the-badge&logo=linkedin&logoColor=fb923c&labelColor=2a1a0c" alt="LinkedIn" /></a>
 </p>

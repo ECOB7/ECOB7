@@ -22,7 +22,7 @@ jobs:
       - name: Generate streak card
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
-          options: user=${{ github.repository_owner }}&theme=monokai-metallian&hide_border=true&disable_animations=true
+          options: user=${{ github.repository_owner }}&background=15100D&border=3A281C&stroke=3A281C&ring=FB923C&fire=F97316&currStreakNum=FFF7ED&sideNums=FFF7ED&currStreakLabel=FB923C&sideLabels=FB923C&dates=BCA191&disable_animations=true
           path: profile/streak.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
