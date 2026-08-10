@@ -1,60 +1,143 @@
-<div align="center">
+<h1 align="center">
+  Hi, I'm Enzo Bittencourt!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="Waving hand" />
+</h1>
 
-<img src="./assets/hero.svg" width="100%" alt="Enzo Bittencourt — Software Engineering student" />
+<img src="https://komarev.com/ghpvc/?username=ecob5&label=Profile%20Views&color=f97316&style=flat" align="right" alt="Profile views" />
 
-<p>
-  <a href="https://www.linkedin.com/in/ecobittencourt/"><img src="https://img.shields.io/badge/LinkedIn-ecobittencourt-18120d?style=flat-square&labelColor=2a1a0c&logo=linkedin&logoColor=fb923c" alt="LinkedIn" /></a>
-  <a href="https://ecob5.github.io/"><img src="https://img.shields.io/badge/Portfolio-ecob5.github.io-18120d?style=flat-square&labelColor=2a1a0c&logo=githubpages&logoColor=fb923c" alt="Portfolio" /></a>
-  <img src="https://img.shields.io/badge/Seeking-Internship_%26_Junior_Roles-18120d?style=flat-square&labelColor=2a1a0c&logo=handshake&logoColor=fb923c" alt="Seeking internship and junior roles" />
+<br />
+
+<!-- Typing SVG by DenverCoder1: https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F97316&center=true&vCenter=true&width=520&height=45&lines=Software+Engineering+Student;Back-end+%26+Applied+AI+Developer;LLMs+%7C+RAG+%7C+Agents+%7C+Data;Always+learning+and+building" alt="Typing introduction" />
+  </a>
+</p>
+<hr />
+
+<samp>
+I am a Software Engineering student focused on turning ideas, data and AI capabilities into practical software. I build back-end applications and applied AI projects with Python, TypeScript, REST APIs, LLMs and data tools. I am currently looking for internship and junior opportunities in software development, applied AI or data. 🚀
+</samp>
+
+## 🔥 Streak Stats
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img title="Enzo's GitHub streak" alt="Enzo's GitHub streak" src="https://streak-stats.demolab.com/?user=ecob5&theme=monokai-metallian&hide_border=true" />
+  </a>
 </p>
 
-</div>
+<p align="center"><i>Build, learn, improve, repeat.</i> 🔥</p>
 
-## About
+## 🛠️ My Favorite Tools
 
-Software Engineering student at Universidade de Vassouras. I build back-end applications and practical AI projects using Python, TypeScript, REST APIs, LLMs and data tools.
+### 👨‍💻 Programming and Markup Languages
 
-Currently seeking internship and junior opportunities in software development, applied AI or data.
+<p>
+  <a href="https://github.com/search?q=user%3Aecob5+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white" /></a>
+  <a href="https://github.com/search?q=user%3Aecob5+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white" /></a>
+  <a href="https://github.com/search?q=user%3Aecob5+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black" /></a>
+  <a href="https://github.com/search?q=user%3Aecob5+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white" /></a>
+  <a href="https://github.com/search?q=user%3Aecob5+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white" /></a>
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-025E8C.svg?logo=postgresql&logoColor=white" />
+  <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white" />
+  <img alt="YAML" src="https://img.shields.io/badge/YAML-CB171E.svg?logo=yaml&logoColor=white" />
+</p>
 
-<div align="center">
-  <img src="./assets/stack.svg" width="100%" alt="Technical toolkit: applied AI, back-end engineering, data and workflow tools" />
-</div>
+### 🧰 Frameworks, AI and Libraries
 
-## Selected projects
+<p>
+  <img alt="Django REST Framework" src="https://img.shields.io/badge/Django_REST-092E20.svg?logo=django&logoColor=white" />
+  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white" />
+  <img alt="Express" src="https://img.shields.io/badge/Express-404D59.svg?logo=express&logoColor=white" />
+  <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991.svg?logo=openai&logoColor=white" />
+  <img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C.svg?logo=langchain&logoColor=white" />
+  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243.svg?logo=numpy&logoColor=white" />
+  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?logo=opencv&logoColor=white" />
+</p>
+
+### 🗄️ Databases and Infrastructure
+
+<p>
+  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E.svg?logo=sqlite&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84.svg?logo=mysql&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white" />
+  <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub_Pages-222222.svg?logo=githubpages&logoColor=white" />
+</p>
+
+### 💻 Software and Workflow
+
+<p>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white" />
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D7.svg?logo=visual-studio-code&logoColor=white" />
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?logo=postman&logoColor=white" />
+  <img alt="LM Studio" src="https://img.shields.io/badge/LM_Studio-111111.svg?logo=probot&logoColor=white" />
+  <img alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811.svg?logo=powerbi&logoColor=black" />
+  <img alt="n8n" src="https://img.shields.io/badge/n8n-EA4B71.svg?logo=n8n&logoColor=white" />
+</p>
+
+## 🚀 Selected Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/ecob5/RAG_document_assistant">RAG Document Assistant</a></h3>
-      <p>REST API that accepts PDF and TXT files, creates embeddings and retrieves relevant content to answer questions with an LLM. Includes upload handling, validation and tests for chunking and vector search.</p>
-      <p><a href="https://github.com/ecob5/RAG_document_assistant">Repository</a></p>
+      <h3><a href="https://github.com/ecob5/RAG_document_assistant">📄 RAG Document Assistant</a></h3>
+      <p>REST API that processes PDF and TXT files, creates embeddings and retrieves relevant context to answer questions with an LLM.</p>
+      <p><code>Python</code> <code>RAG</code> <code>Embeddings</code> <code>REST API</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/ecob5/local-coding-agent">Local Coding Agent</a></h3>
-      <p>Python terminal agent that uses an OpenAI-compatible API and tool calling to inspect files, edit code and run commands inside a project directory.</p>
-      <p><a href="https://github.com/ecob5/local-coding-agent">Repository</a></p>
+      <h3><a href="https://github.com/ecob5/local-coding-agent">🤖 Local Coding Agent</a></h3>
+      <p>Terminal agent that uses an OpenAI-compatible API and tool calling to inspect files, edit code and run project commands.</p>
+      <p><code>Python</code> <code>LLMs</code> <code>Tool Calling</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/ecob5/copa2026">Copa 2026 API</a></h3>
-      <p>Django REST Framework API for managing national teams and players. Containerized with Docker and documented for local execution.</p>
-      <p><a href="https://github.com/ecob5/copa2026">Repository</a></p>
+      <h3><a href="https://github.com/ecob5/copa2026">⚽ Copa 2026 API</a></h3>
+      <p>Django REST Framework API for managing national teams and players, containerized with Docker.</p>
+      <p><code>Django REST</code> <code>Docker</code> <code>API</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/ecob5/SGTA">Academic Events Portal</a></h3>
-      <p>Web application developed for the management and publication of academic events.</p>
-      <p><a href="https://github.com/ecob5/SGTA">Repository</a></p>
+      <h3><a href="https://github.com/ecob5/SGTA">🎓 Academic Events Portal</a></h3>
+      <p>Web application developed for managing and publishing academic events.</p>
+      <p><code>Web</code> <code>Academic Project</code></p>
     </td>
   </tr>
 </table>
 
-<div align="center">
-  <img src="./assets/focus.svg" width="100%" alt="Current focus: applied AI, LLM systems, RAG, automation, data and back-end" />
-</div>
+## 📊 GitHub Stats
 
-## Experience and learning
+<details>
+  <summary>💻 GitHub Profile Stats</summary>
+  <br />
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img alt="Enzo's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ecob5&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img alt="Enzo's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecob5&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192" />
+    </a>
+  </p>
+  <p><b>Note:</b> Top languages reflect the public code on this profile, not overall experience or proficiency.</p>
+</details>
 
-- Generalist AI Trainer, working on code-focused tasks and AI safety requirements.
-- Software Engineering, 6th semester, Universidade de Vassouras.
-- Hands-on work with local models and developer tools including LM Studio, Qwen, Gemma, ChatGPT, Codex and Claude Code.
+<details>
+  <summary>⚡ Recent GitHub Activity</summary>
+  <br />
+  <p align="center">
+    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+      <img alt="Enzo's activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ecob5&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+    </a>
+  </p>
+</details>
+
+## 🙋‍♂️ Let's Connect
+
+<p align="center">
+  <a href="https://ecob5.github.io/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio" /></a>
+  <a href="https://github.com/ecob5" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/ecobittencourt/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn" /></a>
+</p>
