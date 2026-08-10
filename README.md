@@ -32,7 +32,7 @@ I am a Software Engineering student focused on turning ideas, data and AI capabi
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎓 Education</h3>
+      <h3>🏫 Education</h3>
       <p>Software Engineering student at Universidade de Vassouras, building a strong foundation in software development, data and intelligent systems.</p>
     </td>
     <td width="50%" valign="top">
