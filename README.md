@@ -46,7 +46,7 @@ I am a Software Engineering student focused on turning ideas, data and AI capabi
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="Enzo's GitHub streak" alt="Enzo's GitHub streak" src="./profile/streak.svg" />
+    <img title="Enzo's GitHub streak" alt="Enzo's GitHub streak" src="./profile/streak.svg?v=orange" />
   </a>
 </p>
 
