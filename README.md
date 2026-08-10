@@ -1,23 +1,23 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Enzo Cristopher Bittencourt — Software Engineering student focused on applied AI" />
+<img src="./assets/hero.svg" width="100%" alt="Enzo Bittencourt — Software Engineering student focused on applied AI" />
 
 <p>
-  <a href="https://www.linkedin.com/in/ecobittencourt/"><img src="https://img.shields.io/badge/LinkedIn-ecobittencourt-0f172a?style=flat-square&labelColor=111827&logo=linkedin&logoColor=38bdf8" alt="LinkedIn" /></a>
-  <a href="https://ecob5.github.io/"><img src="https://img.shields.io/badge/Portfolio-ecob5.github.io-0f172a?style=flat-square&labelColor=111827&logo=githubpages&logoColor=38bdf8" alt="Portfolio" /></a>
-  <a href="https://github.com/ecob5"><img src="https://img.shields.io/badge/Open_to-Internships_%26_Junior_roles-0f172a?style=flat-square&labelColor=111827&logo=handshake&logoColor=38bdf8" alt="Open to internship and junior roles" /></a>
+  <a href="https://www.linkedin.com/in/ecobittencourt/"><img src="https://img.shields.io/badge/LinkedIn-ecobittencourt-18120d?style=flat-square&labelColor=2a1a0c&logo=linkedin&logoColor=fb923c" alt="LinkedIn" /></a>
+  <a href="https://ecob5.github.io/"><img src="https://img.shields.io/badge/Portfolio-ecob5.github.io-18120d?style=flat-square&labelColor=2a1a0c&logo=githubpages&logoColor=fb923c" alt="Portfolio" /></a>
+  <a href="https://github.com/ecob5"><img src="https://img.shields.io/badge/Open_to-Internships_%26_Junior_roles-18120d?style=flat-square&labelColor=2a1a0c&logo=handshake&logoColor=fb923c" alt="Open to internship and junior roles" /></a>
 </p>
 
 </div>
 
-## About
+## Building at the intersection of AI and software
 
-I am a **Software Engineering student** building practical software with **Python, APIs, data and applied AI**. My current focus is on LLM-powered systems, RAG, agent workflows, model quality and automation — while keeping a solid foundation in back-end development.
+I am a **Software Engineering student** building practical software with **Python, APIs, data and applied AI**. My current focus is on LLM-powered systems, RAG, agent workflows, model quality and automation — supported by a solid back-end and data foundation.
 
 I am looking for an internship or junior opportunity where I can contribute, learn quickly and build reliable products.
 
 <div align="center">
-  <img src="./assets/stack.svg" width="100%" alt="Technical stack: Python, JavaScript, Java, SQL, Flask, Django REST Framework, Docker, Git and more" />
+  <img src="./assets/stack.svg" width="100%" alt="Technical toolkit across applied AI, back-end engineering and data workflows" />
 </div>
 
 ## Selected work
