@@ -22,8 +22,8 @@ I am a Software Engineering student focused on turning ideas, data and AI capabi
 ## 🔥 Streak Stats
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img title="Enzo's GitHub streak" alt="Enzo's GitHub streak" src="https://streak-stats.demolab.com/?user=ecob5&theme=monokai-metallian&hide_border=true" />
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img title="Enzo's GitHub streak" alt="Enzo's GitHub streak" src="./profile/streak.svg" />
   </a>
 </p>
 
@@ -114,11 +114,11 @@ I am a Software Engineering student focused on turning ideas, data and AI capabi
   <summary>💻 GitHub Profile Stats</summary>
   <br />
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img alt="Enzo's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ecob5&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192" />
+    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+      <img alt="Enzo's GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ecob5&theme=github_dark" height="192" />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img alt="Enzo's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecob5&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192" />
+    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+      <img alt="Enzo's top languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ecob5&theme=github_dark" height="192" />
     </a>
   </p>
   <p><b>Note:</b> Top languages reflect the public code on this profile, not overall experience or proficiency.</p>
