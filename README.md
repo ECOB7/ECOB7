@@ -13,10 +13,11 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F97316&center=true&vCenter=true&width=520&height=45&lines=Software+Engineering+Student;Back-end+%26+Applied+AI+Developer;LLMs+%7C+RAG+%7C+Agents+%7C+Data;Always+learning+and+building" alt="Typing introduction" />
   </a>
 </p>
+
 <hr />
 
 <samp>
-I am a Software Engineering student focused on turning ideas, data and AI capabilities into practical software. I build back-end applications and applied AI projects with Python, TypeScript, REST APIs, LLMs and data tools. I am currently looking for internship and junior opportunities in software development, applied AI or data. 🚀
+I am a Software Engineering student focused on turning ideas, data and AI capabilities into practical software. I build back-end applications and applied AI projects with Python, TypeScript, REST APIs, LLMs and data tools. I am currently looking for internship and junior opportunities in software development, applied AI or data.
 </samp>
 
 ## 🔥 Streak Stats
@@ -26,8 +27,6 @@ I am a Software Engineering student focused on turning ideas, data and AI capabi
     <img title="Enzo's GitHub streak" alt="Enzo's GitHub streak" src="./profile/streak.svg" />
   </a>
 </p>
-
-<p align="center"><i>Build, learn, improve, repeat.</i> 🔥</p>
 
 ## 🛠️ My Favorite Tools
 
