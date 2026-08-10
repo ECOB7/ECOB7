@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://ecob5.github.io/"><img src="https://img.shields.io/badge/Portfolio-ecob5.github.io-15100d?style=for-the-badge&logo=githubpages&logoColor=fb923c&labelColor=2a1a0c" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/ecobittencourt/"><img src="https://img.shields.io/badge/LinkedIn-ecobittencourt-15100d?style=for-the-badge&logo=linkedin&logoColor=fb923c&labelColor=2a1a0c" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/ecobittencourt/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-ecobittencourt-15100d?style=for-the-badge&logo=linkedin-white&logoColor=fb923c&labelColor=2a1a0c" alt="LinkedIn" /></a>
   <a href="https://github.com/ecob5"><img src="https://img.shields.io/badge/GitHub-ecob5-15100d?style=for-the-badge&logo=github&logoColor=fb923c&labelColor=2a1a0c" alt="GitHub" /></a>
   <img src="https://img.shields.io/badge/Open_to_Work-Internship_%26_Junior_Roles-15100d?style=for-the-badge&labelColor=2a1a0c" alt="Open to internship and junior roles" />
 </p>
@@ -160,5 +160,5 @@ I am a Software Engineering student focused on turning ideas, data and AI capabi
 <p align="center">
   <a href="https://ecob5.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit-15100d?style=for-the-badge&logo=githubpages&logoColor=fb923c&labelColor=2a1a0c" alt="Portfolio" /></a>
   <a href="https://github.com/ecob5"><img src="https://img.shields.io/badge/GitHub-Follow-15100d?style=for-the-badge&logo=github&logoColor=fb923c&labelColor=2a1a0c" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/ecobittencourt/"><img src="https://img.shields.io/badge/LinkedIn-Connect-15100d?style=for-the-badge&logo=linkedin&logoColor=fb923c&labelColor=2a1a0c" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/ecobittencourt/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Connect-15100d?style=for-the-badge&logo=linkedin-white&logoColor=fb923c&labelColor=2a1a0c" alt="LinkedIn" /></a>
 </p>
