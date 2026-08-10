@@ -1,62 +1,60 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Enzo Bittencourt — Software Engineering student focused on applied AI" />
+<img src="./assets/hero.svg" width="100%" alt="Enzo Bittencourt — Software Engineering student" />
 
 <p>
   <a href="https://www.linkedin.com/in/ecobittencourt/"><img src="https://img.shields.io/badge/LinkedIn-ecobittencourt-18120d?style=flat-square&labelColor=2a1a0c&logo=linkedin&logoColor=fb923c" alt="LinkedIn" /></a>
   <a href="https://ecob5.github.io/"><img src="https://img.shields.io/badge/Portfolio-ecob5.github.io-18120d?style=flat-square&labelColor=2a1a0c&logo=githubpages&logoColor=fb923c" alt="Portfolio" /></a>
-  <a href="https://github.com/ecob5"><img src="https://img.shields.io/badge/Open_to-Internships_%26_Junior_roles-18120d?style=flat-square&labelColor=2a1a0c&logo=handshake&logoColor=fb923c" alt="Open to internship and junior roles" /></a>
+  <img src="https://img.shields.io/badge/Seeking-Internship_%26_Junior_Roles-18120d?style=flat-square&labelColor=2a1a0c&logo=handshake&logoColor=fb923c" alt="Seeking internship and junior roles" />
 </p>
 
 </div>
 
-## Building at the intersection of AI and software
+## About
 
-I am a **Software Engineering student** building practical software with **Python, APIs, data and applied AI**. My current focus is on LLM-powered systems, RAG, agent workflows, model quality and automation — supported by a solid back-end and data foundation.
+Software Engineering student at Universidade de Vassouras. I build back-end applications and practical AI projects using Python, TypeScript, REST APIs, LLMs and data tools.
 
-I am looking for an internship or junior opportunity where I can contribute, learn quickly and build reliable products.
+Currently seeking internship and junior opportunities in software development, applied AI or data.
 
 <div align="center">
-  <img src="./assets/stack.svg" width="100%" alt="Technical toolkit across applied AI, back-end engineering and data workflows" />
+  <img src="./assets/stack.svg" width="100%" alt="Technical toolkit: applied AI, back-end engineering, data and workflow tools" />
 </div>
 
-## Selected work
+## Selected projects
 
 <table>
   <tr>
-    <td width="50%">
-      <h3>RAG Document Assistant</h3>
-      <p>Document-question-answering assistant that uses Retrieval-Augmented Generation to make uploaded information searchable and useful through natural-language queries.</p>
-      <p><a href="https://github.com/ecob5/RAG_document_assistant">View repository →</a></p>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ecob5/RAG_document_assistant">RAG Document Assistant</a></h3>
+      <p>REST API that accepts PDF and TXT files, creates embeddings and retrieves relevant content to answer questions with an LLM. Includes upload handling, validation and tests for chunking and vector search.</p>
+      <p><a href="https://github.com/ecob5/RAG_document_assistant">Repository</a></p>
     </td>
-    <td width="50%">
-      <h3>LLM Coding Agent</h3>
-      <p>Python agent experiment using tool calling and API integration to inspect files, edit code and run commands in a local development workflow.</p>
-      <p><em>Currently building</em></p>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ecob5/local-coding-agent">Local Coding Agent</a></h3>
+      <p>Python terminal agent that uses an OpenAI-compatible API and tool calling to inspect files, edit code and run commands inside a project directory.</p>
+      <p><a href="https://github.com/ecob5/local-coding-agent">Repository</a></p>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3>Intelligent Facial Presence System</h3>
-      <p>Flask and OpenCV system for facial-presence management, with an SQLite database, dashboard, reports and data export. Presented to the Prefeitura Municipal de Vassouras.</p>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ecob5/copa2026">Copa 2026 API</a></h3>
+      <p>Django REST Framework API for managing national teams and players. Containerized with Docker and documented for local execution.</p>
+      <p><a href="https://github.com/ecob5/copa2026">Repository</a></p>
     </td>
-    <td width="50%">
-      <h3>2026 World Cup API</h3>
-      <p>Django REST Framework API for managing national teams and players, packaged with Docker and tested with Postman.</p>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ecob5/SGTA">Academic Events Portal</a></h3>
+      <p>Web application developed for the management and publication of academic events.</p>
+      <p><a href="https://github.com/ecob5/SGTA">Repository</a></p>
     </td>
   </tr>
 </table>
 
 <div align="center">
-  <img src="./assets/focus.svg" width="100%" alt="Current focus: applied AI, LLMs, RAG, agent workflows, data and back-end engineering" />
+  <img src="./assets/focus.svg" width="100%" alt="Current focus: applied AI, LLM systems, RAG, automation, data and back-end" />
 </div>
 
-## Beyond code
+## Experience and learning
 
-- **Generalist AI Trainer** — work involving model evaluation, prompt and code evaluation, and AI safety guidelines.
-- **Software Engineering, 6th semester** — Universidade de Vassouras.
-- Working with local models and developer tools including **LM Studio, Qwen, Gemma, ChatGPT, Codex and Claude Code**.
-
-<div align="center">
-  <sub><i>Building useful systems, learning in public and improving with every project.</i></sub>
-</div>
+- Generalist AI Trainer, working on code-focused tasks and AI safety requirements.
+- Software Engineering, 6th semester, Universidade de Vassouras.
+- Hands-on work with local models and developer tools including LM Studio, Qwen, Gemma, ChatGPT, Codex and Claude Code.
