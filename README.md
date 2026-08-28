@@ -24,7 +24,7 @@
 <hr />
 
 <samp>
-I am a Software Engineering student focused on turning ideas, data and AI capabilities into practical software. I build back-end applications and applied AI projects with Python, TypeScript, REST APIs, LLMs and data tools. I am currently looking for internship and junior opportunities in software development, applied AI or data.
+I am a Software Engineering student and Generalist AI Trainer building back-end and applied AI solutions with Python, TypeScript, REST APIs, databases and LLMs. My projects span coding agents, RAG, data APIs and computer vision. I am seeking internship or junior roles in back-end development, automation, data or applied AI.
 </samp>
 
 ## 🎓 Academic & Professional
@@ -33,11 +33,11 @@ I am a Software Engineering student focused on turning ideas, data and AI capabi
   <tr>
     <td width="50%" valign="top">
       <h3>🏫 Education</h3>
-      <p>Software Engineering student at Universidade de Vassouras, building a strong foundation in software development, data and intelligent systems.</p>
+      <p>Software Engineering student at Universidade de Vassouras, focused on back-end development, automation, data and applied AI.</p>
     </td>
     <td width="50%" valign="top">
       <h3>💼 Experience</h3>
-      <p>Experience as a Generalist AI Trainer, working with code-focused tasks, technical evaluation and AI safety requirements.</p>
+      <p>Generalist AI Trainer experienced in code-focused tasks, technical evaluation, instruction compliance and AI safety requirements.</p>
     </td>
   </tr>
 </table>
@@ -123,7 +123,7 @@ I am a Software Engineering student focused on turning ideas, data and AI capabi
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/ecob5/SGTA">🎓 Academic Events Portal</a></h3>
-      <p>Web application developed for managing and publishing academic events.</p>
+      <p>Web application for organizing, managing and publishing academic events.</p>
       <p><code>Web</code> <code>Academic Project</code></p>
     </td>
   </tr>
